@@ -103,36 +103,36 @@ a {
     font-size: 1.5rem; color: #000;
 }
 
-.mirage {
-    background-image: url(imagens/Sem\ título10.png);
+.minecraft {
+    background-image: url(imagens/minecraft.jpg);
 }
 
-.mirage > p{
+.minecraft > p{
     padding: 20px;
 }
 
-.inferno{
-    background-image: url(imagens/Sem\ título10.png);
+.terraria{
+    background-image: url(imagens/terraria.jpg);
 }
 
-.dust2{
-    background-image: url(imagens/Sem\ título10.png);
+.dontstarve{
+    background-image: url(imagens/dont\ starve.jpg);
 }
 
-.overpass{
-    background-image: url(imagens/Sem\ título10.png);
+.godofwar{
+    background-image: url(imagens/god-of-war-2018-004-1060x596.jpg);
 }
 
-.nuke{
-    background-image: url(imagens/Sem\ título10.png);
+.clashofclan{
+    background-image: url(imagens/og_clashofclans.f3149338.jpg);
 }
 
-.vertigo{
-    background-image: url(imagens/Sem\ título10.png);
+.csgo{
+    background-image: url(imagens/Baixar-CSGO-download.jpg);
 }
 
-.train{
-    background-image: url(imagens/Sem\ título10.png);
+.pokemongo{
+    background-image: url(imagens/pokemon\ go.jpg);
 }
 
 .conteudo2{  
@@ -167,8 +167,9 @@ a {
 
 .rodape{
     background: #696969;
-    clear: both;
     padding: 20px;
+    margin-top: 10%;
+    clear: both;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
